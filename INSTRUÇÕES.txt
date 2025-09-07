@@ -1,0 +1,21 @@
+
+IDE: VSCode
+
+RODAR BACKEND (powershell ou bash)
+cd backend (direciona para a pasta do Back)
+npm install (instala as dependências do package.json)
+npm run dev (starta)
+
+RODAR FRONTEND (powershell ou bash)
+cd frontend (direciona para a pasta do Front)
+npm install -D @vitejs/plugin-vue (dependencias vite caso nao houver instale)
+npm install xlsx file-saver (manipulador de XLS caso nao ouver instale)
+npm install bootstrap @popperjs/core (style guide caso na houver instale)
+npm install @fortawesome/fontawesome-free (style icons caso nao houver instale)
+npm install (instala as dependências do package.json)
+npm run dev (starta)
+
+
+NA TELA LOGIN
+login: admin
+senha: 123456

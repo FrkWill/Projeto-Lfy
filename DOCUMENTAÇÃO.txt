@@ -1,0 +1,30 @@
+TELA DE LOGIN:
+
+-Cadastro de novos usuários.
+	cadastra novos usuários preenchendo o campo login e senha, criptografando os dados e registrando em banco.
+
+-inserção de dados de Login.
+	campos para inserção de login e senha de registro, sendo senha oculta com possibilidade de visibilidade para segurança, e autenticação.
+
+----------------------------------------------------------------------------------------------
+
+
+TELA DASHBOARD:
+
+-Atualiza campos da tabela em tempo real.
+	possível editar qualquer célula que a mesma se atualiza em banco de dados.
+
+-restaura os campos alterados.
+	botão reservado para restaurar alterações indesejadas.
+
+-botão de exportar CSV.
+	botão especifico para montar os valores da tabela em formato CSV, para possível leitura de outros programas.
+
+-botão de exportar XLSX.
+	botão especifico para montar os valores da tabela em formato XLSX, para possível leitura de outros programas.
+
+-botão de Logout.
+	botão responsável por deslogar o usuário ativo e retornar a tela de Login.
+
+-Barra de pesquisa.
+	campo especifico para buscar ou filtrar dados desejados de qualquer valor da tabela que se enquadre na busca.
